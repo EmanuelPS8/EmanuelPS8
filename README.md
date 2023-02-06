@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EmanuelPS8
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, HTML, CSS, JAVASCRIPS and Flutter
+- 🌱 I’m currently learning Python
+- 💻 I'm a Java and Flutter programmer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emanuel.schlickmann@gmail.com
 
