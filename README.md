@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💻 I'm a Java and Flutter programmer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me emanuel.schlickmann@gmail.com
+- 📫 How to reach me emanuel.schlickmann@unesc.net
 
 <!---
 EmanuelPS8/EmanuelPS8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
