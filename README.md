@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Emanuel
 
 🎓 Sou desenvolvedor full-stack com foco em engenharia de software, APIs e aplicações web. Participei do programa **DevTI** da Universidade do Sul de Santa Catarina, onde desenvolvi habilidades sólidas com tecnologias como:
 
@@ -28,14 +28,14 @@ People Information Management Service, developed using my custom Java APIs for t
 🔸 **[Invoice Management System](https://github.com/EmanuelPS8/poo_financial_service)**  
 Invoice Management System.
 
-🔸 **[GEPPHAE Website](ttps://github.com/EmanuelPS8/projeto_final)**  
+🔸 **[GEPPHAE Website](https://github.com/EmanuelPS8/projeto_final)**  
 GEPPHAE Website
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [seulinkedin.com/in/seudperfil](https://www.linkedin.com/in/emanuel-p-schlickmann/)
+- LinkedIn: [(https://www.linkedin.com/in/emanuel-p-schlickmann/)](https://www.linkedin.com/in/emanuel-p-schlickmann/)
 - Email: emanuel.schlickmann@gmail.com
 
 ---
