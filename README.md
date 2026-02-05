@@ -2,7 +2,7 @@
 
 🎓 Sou desenvolvedor full-stack com foco em engenharia de software, APIs e aplicações web. Participei do programa **DevTI** da Universidade do Sul de Santa Catarina, onde desenvolvi habilidades sólidas com tecnologias como:
 
-- 💻 **Java**,**React**, **TypeScript** **Flutter**, **JavaScript**
+- 💻 **Java**, **React**, **TypeScript** **Flutter**, **JavaScript**
 - 🗄️ **MySQL**
 - 🔧 Princípios de engenharia de software e desenvolvimento ágil
 
