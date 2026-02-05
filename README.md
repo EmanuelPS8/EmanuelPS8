@@ -2,9 +2,8 @@
 
 🎓 Sou desenvolvedor full-stack com foco em engenharia de software, APIs e aplicações web. Participei do programa **DevTI** da Universidade do Sul de Santa Catarina, onde desenvolvi habilidades sólidas com tecnologias como:
 
-- 💻 **Java**, **Flutter**, **JavaScript**
+- 💻 **Java**,**React**, **TypeScript** **Flutter**, **JavaScript**
 - 🗄️ **MySQL**
-- 🌐 **HTML**, **CSS**
 - 🔧 Princípios de engenharia de software e desenvolvimento ágil
 
 ---
@@ -15,8 +14,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ---
 
